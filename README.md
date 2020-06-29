@@ -3,6 +3,6 @@
 Files that Passport uses:
 1) models/user.js (password encryption with bcrypt)
 2) config/passport.js
-1) server.js
-2) routes
-3) config/middleware/isAuthenticated.js
+3) server.js
+4) routes
+5) config/middleware/isAuthenticated.js
